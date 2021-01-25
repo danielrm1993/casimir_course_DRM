@@ -1,6 +1,9 @@
 print ('hello world')
 import math
 def circ(r):
+	"""
+	This is the circ function.
+	"""
 	return(2*math.pi*r)
 
 def surf(r):
