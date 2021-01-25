@@ -4,6 +4,9 @@ def circ(r):
 	return(2*math.pi*r)
 
 def surf(r):
+	"""
+	Calculates the surface area of a function with radius r
+	"""
 	return(math.pi*(r**2))
 
 
